@@ -1503,6 +1503,9 @@ h3 {
   }
 }
 
+img {
+  padding-left: 500px;
+}
 /* line 84, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
 .slider_area .single_slider .my_img {
   position: absolute;
@@ -1514,6 +1517,7 @@ h3 {
   /* line 84, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
   .slider_area .single_slider .my_img {
     width: 290px;
+    margin-left: 1000px;
   }
 }
 
