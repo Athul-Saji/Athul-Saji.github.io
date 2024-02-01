@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ba89732.css",
+    "main.js": "/static/js/main.38729423.js",
+    "static/media/proagro.png": "/static/media/proagro.4e363ec65ec852e4ec9c.png",
+    "static/media/hero.jpg": "/static/media/hero.0a4893421f4eb80a395c.jpg",
+    "static/media/profile.png": "/static/media/profile.b040ecaabcc3bf4ae01a.png",
+    "index.html": "/index.html",
+    "main.7ba89732.css.map": "/static/css/main.7ba89732.css.map",
+    "main.38729423.js.map": "/static/js/main.38729423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba89732.css",
+    "static/js/main.38729423.js"
+  ]
+}
