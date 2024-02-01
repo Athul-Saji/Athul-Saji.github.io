@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import "./NavbarStyles.css";
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-
+import resume from "../assets/resume.pdf";
 
 
 const Navbar = () => {
@@ -40,6 +40,9 @@ const Navbar = () => {
           </li>
           <li>
             <Link to="/contact">Contact</Link>
+          </li>
+          <li>
+          <a className='resumebtn' href={resume} download= 'resume.pdf'>Resume</a>
           </li>
           
         </ul>
