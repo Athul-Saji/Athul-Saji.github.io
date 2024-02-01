@@ -1,0 +1,55 @@
+.sjcet{
+    color: rgb(50, 219, 50);
+}
+.insta{
+    color: rgb(236, 73, 73);
+}
+.linked{
+    color:#0077b5;}
+.img .prof{
+    
+    padding-left: 9rem;
+    position: relative;
+    object-fit: cover;
+}
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.about .right{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+.about .right p{
+    margin: 1rem 0;
+    line-height: 1.6;
+
+}
+.about .left{
+    max-width: 700px;
+
+}
+.left .img-container{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    position: relative;
+    align-items: center;
+    text-align: center;
+
+}
+
+.left .img{
+    max-width: 90%;
+}
+.about .heading{
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+}
