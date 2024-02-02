@@ -53,3 +53,24 @@
     text-align: center;
     padding: 4rem 0 2rem 0;
 }
+
+@media screen and (max-width:740px) {
+    .left .img-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        position: relative;
+        align-items: center;
+        text-align: center;
+    
+    }
+    .img .prof{
+    
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 0%;
+        position: relative;
+        object-fit: cover;
+    }
+
+    
+}
